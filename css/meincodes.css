@@ -44,4 +44,8 @@ a:hover {
 /*================ Links Visitados ================*/
 a:visited {
   color: #82e611;
+}
+
+a:active {
+  color: aqua;
 }/*# sourceMappingURL=meincodes.css.map */
