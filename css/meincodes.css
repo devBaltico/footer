@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Ubuntu", arial;
+  src: url(/webfont/);
+}
+body {
+  background: rgb(139, 139, 139);
+  font-family: "Ubuntu", sans-serif;
+}
+
+.footer {
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  padding: 13px 20px;
+  background-color: rgb(146, 4, 4);
+  overflow: hidden;
+}
+
+.span {
+  font-weight: 5px;
+}
+
+#creditline {
+  width: 100%;
+  display: block;
+  clear: both;
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+}
+
+/*================ Links no Visitados ================*/
+a:link {
+  color: #ffffff;
+}
+
+/*================ Links no efectos con el mouse ================*/
+a:hover {
+  color: #ff7b00;
+}
+
+/*================ Links Visitados ================*/
+a:visited {
+  color: #82e611;
+}/*# sourceMappingURL=meincodes.css.map */
