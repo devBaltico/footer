@@ -42,4 +42,9 @@ a:hover {
 /*================ Links Visitados ================*/
 a:visited {
   color: #82e611;
+}
+
+/*================ Mosca ================*/
+.mosca {
+  height: 30px;
 }/*# sourceMappingURL=styles.css.map */
